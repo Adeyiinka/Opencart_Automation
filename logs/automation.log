@@ -1,0 +1,119 @@
+08/09/2023 12:44:07 - INFO - ________________ test_register started ___________________
+08/09/2023 13:20:22 - INFO - ________________ test_register started ___________________
+08/09/2023 13:20:23 - INFO - Launching Application.
+08/09/2023 13:20:23 - INFO - Clicking on My Account --> Register.
+08/09/2023 13:20:24 - INFO - Providing user details for registration.
+08/09/2023 13:23:20 - INFO - ________________ test_register started ___________________
+08/09/2023 13:23:21 - INFO - Launching Application.
+08/09/2023 13:23:21 - INFO - Clicking on My Account --> Register.
+08/09/2023 13:23:22 - INFO - Providing user details for registration.
+08/09/2023 13:26:07 - INFO - ________________ test_register started ___________________
+08/09/2023 13:26:07 - INFO - Launching Application.
+08/09/2023 13:26:07 - INFO - Clicking on My Account --> Register.
+08/09/2023 13:26:08 - INFO - Providing user details for registration.
+08/09/2023 13:44:20 - INFO - ________________ test_register started ___________________
+08/09/2023 13:44:21 - INFO - Launching Application.
+08/09/2023 13:44:21 - INFO - Clicking on My Account --> Register.
+08/09/2023 13:44:21 - INFO - Providing user details for registration.
+08/09/2023 13:46:27 - INFO - ________________ test_register started ___________________
+08/09/2023 13:46:28 - INFO - Launching Application.
+08/09/2023 13:46:28 - INFO - Clicking on My Account --> Register.
+08/09/2023 13:46:28 - INFO - Providing user details for registration.
+08/09/2023 13:46:55 - INFO - ________________ test_register started ___________________
+08/09/2023 13:46:55 - INFO - Launching Application.
+08/09/2023 13:46:56 - INFO - Clicking on My Account --> Register.
+08/09/2023 13:46:56 - INFO - Providing user details for registration.
+08/09/2023 16:43:09 - INFO - ********** Starting test_login ***********
+08/09/2023 16:54:36 - INFO - ********** Starting test_login ***********
+08/09/2023 17:03:01 - INFO - ********** Starting test_login ***********
+08/09/2023 17:04:40 - INFO - ********** Starting test_login ***********
+08/09/2023 17:18:54 - INFO - ********** Starting test_login ***********
+08/09/2023 17:19:59 - INFO - ********** Starting test_login ***********
+08/09/2023 17:25:03 - INFO - ********** Starting test_login ***********
+08/09/2023 17:25:18 - INFO - ********** Starting test_login ***********
+08/09/2023 18:24:05 - INFO - ********** Starting test_login ***********
+08/09/2023 18:36:04 - INFO - ********** Starting test_login ***********
+08/09/2023 18:36:45 - INFO - ********** Starting test_login ***********
+08/09/2023 18:40:47 - INFO - ********** Starting test_login ***********
+08/09/2023 18:44:01 - INFO - ********** Starting test_login ***********
+08/09/2023 18:51:09 - INFO - ********** Starting test_login ***********
+08/09/2023 18:51:50 - INFO - ********** Starting test_login ***********
+08/09/2023 18:58:30 - INFO - ********** Starting test_login ***********
+08/09/2023 19:01:35 - INFO - ********** Starting test_login ***********
+08/09/2023 19:02:25 - INFO - ________________ test_register started ___________________
+08/09/2023 19:02:26 - INFO - Launching Application.
+08/09/2023 19:02:26 - INFO - Clicking on My Account --> Register.
+08/09/2023 19:02:26 - INFO - Providing user details for registration.
+08/09/2023 19:02:51 - INFO - ________________ test_register started ___________________
+08/09/2023 19:02:52 - INFO - Launching Application.
+08/09/2023 19:02:52 - INFO - Clicking on My Account --> Register.
+08/09/2023 19:02:53 - INFO - Providing user details for registration.
+08/09/2023 19:03:29 - INFO - ________________ test_register started ___________________
+08/09/2023 19:03:29 - INFO - Launching Application.
+08/09/2023 19:03:29 - INFO - Clicking on My Account --> Register.
+08/09/2023 19:03:30 - INFO - Providing user details for registration.
+08/09/2023 19:03:55 - INFO - ________________ test_register started ___________________
+08/09/2023 19:03:56 - INFO - Launching Application.
+08/09/2023 19:03:56 - INFO - Clicking on My Account --> Register.
+08/09/2023 19:03:56 - INFO - Providing user details for registration.
+08/09/2023 19:04:04 - ERROR - Account registration is failed.
+08/09/2023 19:09:44 - INFO - ________________ test_register started ___________________
+08/09/2023 19:09:45 - INFO - Launching Application.
+08/09/2023 19:09:45 - INFO - Clicking on My Account --> Register.
+08/09/2023 19:09:46 - INFO - Providing user details for registration.
+08/09/2023 19:10:31 - INFO - ********** Starting test_login ***********
+08/09/2023 19:10:33 - INFO - ******* End of Test_login *******
+08/09/2023 19:12:09 - INFO - ********** Starting test_login ***********
+08/09/2023 19:12:09 - INFO - ********** Starting test_login ***********
+08/09/2023 19:12:11 - INFO - ******* End of Test_login *******
+08/09/2023 19:12:11 - INFO - ******* End of Test_login *******
+08/09/2023 19:12:14 - INFO - ________________ test_register started ___________________
+08/09/2023 19:12:14 - INFO - ________________ test_register started ___________________
+08/09/2023 19:12:14 - INFO - Launching Application.
+08/09/2023 19:12:14 - INFO - Launching Application.
+08/09/2023 19:12:14 - INFO - Clicking on My Account --> Register.
+08/09/2023 19:12:14 - INFO - Clicking on My Account --> Register.
+08/09/2023 19:12:15 - INFO - Providing user details for registration.
+08/09/2023 19:12:15 - INFO - Providing user details for registration.
+08/09/2023 19:49:02 - INFO - ********** Starting test_login ***********
+08/09/2023 19:49:02 - INFO - ********** Starting test_login ***********
+08/09/2023 19:49:03 - INFO - ******* End of Test_login *******
+08/09/2023 19:49:03 - INFO - ******* End of Test_login *******
+08/09/2023 19:49:07 - INFO - ________________ test_register started ___________________
+08/09/2023 19:49:07 - INFO - ________________ test_register started ___________________
+08/09/2023 19:49:07 - INFO - Launching Application.
+08/09/2023 19:49:07 - INFO - Launching Application.
+08/09/2023 19:49:07 - INFO - Clicking on My Account --> Register.
+08/09/2023 19:49:07 - INFO - Clicking on My Account --> Register.
+08/09/2023 19:49:08 - INFO - Providing user details for registration.
+08/09/2023 19:49:08 - INFO - Providing user details for registration.
+08/14/2023 19:46:49 - INFO - ***** Starting test_myAccount *****
+08/15/2023 18:34:00 - INFO - ________________ test_register started ___________________
+08/15/2023 18:34:00 - INFO - Launching Application.
+08/15/2023 18:34:01 - INFO - Clicking on My Account --> Register.
+08/15/2023 18:34:01 - INFO - Providing user details for registration.
+08/15/2023 18:40:03 - INFO - ________________ test_register started ___________________
+08/15/2023 18:40:04 - INFO - Launching Application.
+08/15/2023 18:40:04 - INFO - Clicking on My Account --> Register.
+08/15/2023 18:40:04 - INFO - Providing user details for registration.
+08/15/2023 18:40:17 - ERROR - Account registration is failed.
+08/15/2023 18:44:29 - INFO - ________________ test_register started ___________________
+08/15/2023 18:44:30 - INFO - Launching Application.
+08/15/2023 18:44:30 - INFO - Clicking on My Account --> Register.
+08/15/2023 18:44:31 - INFO - Providing user details for registration.
+08/15/2023 18:44:49 - ERROR - Account registration is failed.
+08/15/2023 18:46:35 - INFO - ________________ test_register started ___________________
+08/15/2023 18:46:35 - INFO - Launching Application.
+08/15/2023 18:46:36 - INFO - Clicking on My Account --> Register.
+08/15/2023 18:46:36 - INFO - Providing user details for registration.
+08/15/2023 18:46:54 - ERROR - Account registration is failed.
+08/15/2023 18:46:54 - INFO - *** test_register completed ***
+08/15/2023 18:50:36 - INFO - ********** Starting test_login ***********
+08/15/2023 18:52:07 - INFO - ***** Starting test_myAccount *****
+08/15/2023 18:57:29 - INFO - ***** Starting test_myAccount *****
+08/15/2023 19:17:45 - INFO - ********** Starting test_login ***********
+08/15/2023 19:26:12 - INFO - ********** Starting test_login ***********
+08/15/2023 19:38:22 - INFO - ***** Starting test_myAccount *****
+08/15/2023 19:40:01 - INFO - ***** Starting test_myAccount *****
+08/16/2023 09:31:44 - INFO - ********** Starting test_login ***********
+08/16/2023 09:32:20 - INFO - ********** Starting test_login ***********
